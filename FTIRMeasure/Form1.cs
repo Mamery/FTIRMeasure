@@ -19,7 +19,8 @@ namespace FTIRMeasure
 
         private void btn_start_Click(object sender, EventArgs e)
         {
-
+           label2.Text = "HelloForm";
         }
+
     }
 }
